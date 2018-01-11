@@ -1,4 +1,4 @@
-package interview.practice.file;
+package practice.basics;
 
 import org.junit.Test;
 import org.slf4j.Logger;

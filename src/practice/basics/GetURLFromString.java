@@ -1,8 +1,8 @@
-package interview.practice.file;
-
-import java.util.regex.Pattern;
+package practice.basics;
 
 import org.junit.Test;
+
+import java.util.regex.Pattern;
 
 public class GetURLFromString {
 

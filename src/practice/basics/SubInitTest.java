@@ -1,4 +1,4 @@
-package interview.practice.file;
+package practice.basics;
 
 /**
  * Created by DamonJT on 2018/1/11 0011.
