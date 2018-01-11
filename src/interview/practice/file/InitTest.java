@@ -4,15 +4,6 @@ package interview.practice.file;
 /**
  * Created by DamonJT on 2017/3/9 0009.
  */
-class SubInitTest {
-
-    public SubInitTest(int v){
-        init(v);
-    }
-
-    public void init(int v){};
-
-}
 public class InitTest extends SubInitTest {
 
     int v = 1;
