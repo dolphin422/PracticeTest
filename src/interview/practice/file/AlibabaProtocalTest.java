@@ -130,7 +130,7 @@ public class AlibabaProtocalTest {
     @Test
     public void  stringSplitTest() {
         //需做最后一个分隔符后有无内容的检查,否则会有NPE风险
-        String str = "a, b, c,,";
+        String str = "a,b,c,   ,";
         String[] ary = str.split(",");
         //预期大于3,结果等于3
         System.out.println(ary.length);
